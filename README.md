@@ -1,7 +1,7 @@
 # Hi! I´m Juan Fernando.
 ### Programming enthusiast and Systems engineering student.
 ## About me
-Passionate about programming, I enjoy creating algorithms in **Java** and **C++**, and developing web projects with **PHP** and databases. Currently studying **Systems Engineering** at **Universidad Distrital Francisco José de Caldas**, Bogotá, Colombia.
+I´m a passionate about programming, and I enjoy to develop software using **Java** (object oriented programming and JavaWeb). Currently studying **Systems Engineering** at the **Universidad Distrital Francisco José de Caldas**, Bogotá, Colombia.
 - **How to contact me:**
   - [jfcardenasd@udistrital.edu.co](mailto:jfcardenasd@udistrital.edu.co)
   - [discosjuansa@gmail.com](mailto:discosjuansa@gmail.com)
