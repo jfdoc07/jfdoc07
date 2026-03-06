@@ -6,4 +6,4 @@ I´m a programming enthusiast, making algorithms in **Java** and **C++**. Also, 
   - [jfcardenasd@udistrital.edu.co](mailto:jfcardenasd@udistrital.edu.co)
   - [discosjuansa@gmail.com](mailto:discosjuansa@gmail.com)
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juan-fernando-cárdenas-113684302/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/juan-fernando-cárdenas-113684302/)
